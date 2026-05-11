@@ -48,3 +48,4 @@ if st.button("Predict"):
         st.warning("Prediction: Suspect")
     else:
         st.error("Prediction: Pathologic")
+    st.caption("* Abu Hurara * M.Ahmad * Rai Usama * Abdullah * M.Umar ")
